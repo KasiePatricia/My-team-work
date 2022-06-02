@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.font2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bg-page3 {
+  background: #E6EEF2;
+}
+
+.color-page {
+  color: #B2DDED;
+}
+
+.color-page2 {
+  color: #545454;
+}
+
+.color-page3 {
+  color: #4C84C3;
+}
+
+.color-page4 {
+  color: #55555;
+}
+
+.nav-item a:hover {
+  background: #283779;
+  color: #ffffff !important;
+}
